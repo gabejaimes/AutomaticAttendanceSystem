@@ -1,0 +1,4 @@
+﻿Section,ID,First Name,Middle Name,Last Name,Grade Basis,Level,Major 1,Major 2,College,Gender/ Pronoun,Email Address
+02F,2468101,John,James,Doe,Graded,Sophomore,CMP4,,Coll Nine,M,fakeEmail1@gmail.com
+02F,1234567,Don,Frank,Joe,Graded,Sophomore,CMP4,,Coll Nine,M,fakeEmail2@gmail.com
+02F,9876543,Jane,Mary,Doe,Graded,Sophomore,PSYC,,Coll Nine,F,fakeEmail3@gmail.com
